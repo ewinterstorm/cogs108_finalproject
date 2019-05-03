@@ -21,6 +21,7 @@ for county in counties:
     contents = pickle.load(pickle_in)
     pickle_in.close()
 
+
     namn_rad = []
 
     data_ram = pd.DataFrame(columns=['place', 'percentile', 'income', 'percent'])
