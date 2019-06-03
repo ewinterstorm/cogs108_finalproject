@@ -1853,11 +1853,11 @@
 3,https://statisticalatlas.com/county/Texas/Lipscomb-County/Household-Income,Median,"0    60,163.000000dtype: object","0    100.000dtype: object"
 4,https://statisticalatlas.com/county/Texas/Lipscomb-County/Household-Income,40th,"0    48,889.000000dtype: object","0    81.261dtype: object"
 5,https://statisticalatlas.com/county/Texas/Lipscomb-County/Household-Income,20th,"0    26,597.000000dtype: object","0    44.208dtype: object"
-0,https://statisticalatlas.com/county/Texas/Loving-County/Household-Income,95th,"0    195,200.000000dtype: object","0    343.000dtype: object"
-1,https://statisticalatlas.com/county/Texas/Loving-County/Household-Income,80th,"0    96,300.000000dtype: object",
-2,https://statisticalatlas.com/county/Texas/Loving-County/Household-Income,60th,"0    78,500.000000dtype: object",
-3,https://statisticalatlas.com/county/Texas/Loving-County/Household-Income,Mediam,"0    56,900.000000dtype: object",
-4,https://statisticalatlas.com/county/Texas/Loving-County/Household-Income,20th ,"0    14,700.000000dtype: object",
+0,https://statisticalatlas.com/county/Texas/Loving-County/Household-Income,95th,"0    195,188.000000dtype: object","0    343.188dtype: object"
+1,https://statisticalatlas.com/county/Texas/Loving-County/Household-Income,80th,"0    96,286.000000dtype: object","0    169.294dtype: object"
+2,https://statisticalatlas.com/county/Texas/Loving-County/Household-Income,60th,"0    78,500.000000dtype: object","0    138.022dtype: object"
+3,https://statisticalatlas.com/county/Texas/Loving-County/Household-Income,Mediam,"0    56,875.000000dtype: object","0    100.000dtype: object"
+5,https://statisticalatlas.com/county/Texas/Loving-County/Household-Income,20th ,"0    14,700.000000dtype: object","0    25.846dtype: object"
 0,https://statisticalatlas.com/county/Texas/Martin-County/Household-Income,95th,"0    250,001.000000> dtype: object",dtype: object
 1,https://statisticalatlas.com/county/Texas/Martin-County/Household-Income,80th,"0    129,250.000000dtype: object","0    201.978dtype: object"
 2,https://statisticalatlas.com/county/Texas/Martin-County/Household-Income,60th,"0    79,182.000000dtype: object","0    123.737dtype: object"
@@ -3328,6 +3328,11 @@
 3,https://statisticalatlas.com/county/Nevada/Clark-County/Household-Income,Median,"0    52,629.000000dtype: object","0    100.000dtype: object"
 4,https://statisticalatlas.com/county/Nevada/Clark-County/Household-Income,40th,"0    42,321.000000dtype: object","0    80.414dtype: object"
 5,https://statisticalatlas.com/county/Nevada/Clark-County/Household-Income,20th,"0    23,903.000000dtype: object","0    45.418dtype: object"
+0,https://statisticalatlas.com/county/Nevada/Eureka-County/Household-Income,95th,"0    170,350.000000dtype: object","0    243.357dtype: object"
+1,https://statisticalatlas.com/county/Nevada/Eureka-County/Household-Income,80th,"0    113,917.000000dtype: object","0    162.739dtype: object"
+2,https://statisticalatlas.com/county/Nevada/Eureka-County/Household-Income,60th,"0    84,205.000000dtype: object","0    120.293dtype: object"
+3,https://statisticalatlas.com/county/Nevada/Eureka-County/Household-Income,Median,"0    70,000.000000dtype: object","0    100.000dtype: object"
+4,https://statisticalatlas.com/county/Nevada/Eureka-County/Household-Income,40th,"0    52,260.000000dtype: object","0    74.657dtype: object"
 0,https://statisticalatlas.com/county/Nevada/Lyon-County/Household-Income,95th,"0    135,020.000000dtype: object","0    275.512dtype: object"
 1,https://statisticalatlas.com/county/Nevada/Lyon-County/Household-Income,80th,"0    89,131.000000dtype: object","0    181.874dtype: object"
 2,https://statisticalatlas.com/county/Nevada/Lyon-County/Household-Income,60th,"0    59,459.000000dtype: object","0    121.328dtype: object"
@@ -10936,6 +10941,11 @@
 3,https://statisticalatlas.com/county/Hawaii/Hawaii-County/Household-Income,Median,"0    53,936.000000dtype: object","0    100.000dtype: object"
 4,https://statisticalatlas.com/county/Hawaii/Hawaii-County/Household-Income,40th,"0    40,694.000000dtype: object","0    75.449dtype: object"
 5,https://statisticalatlas.com/county/Hawaii/Hawaii-County/Household-Income,20th,"0    18,997.000000dtype: object","0    35.221dtype: object"
+0,https://statisticalatlas.com/county/Hawaii/Kalawao-County/Household-Income,95th,"0    175,781.000000dtype: object","0    267.857dtype: object"
+1,https://statisticalatlas.com/county/Hawaii/Kalawao-County/Household-Income,80th,"0    115,000.000000dtype: object","0   175.238dtype: object"
+2,https://statisticalatlas.com/county/Hawaii/Kalawao-County/Household-Income,60th,"0    71,667.000000dtype: object","0    109.207dtype: object"
+3,https://statisticalatlas.com/county/Hawaii/Kalawao-County/Household-Income,Median,"0    65,625.000000dtype: object","0    100.000dtype: object"
+4,https://statisticalatlas.com/county/Hawaii/Kalawao-County/Household-Income,40th,"0    53,750.000000dtype: object","0    81.905dtype: object"
 0,https://statisticalatlas.com/county/Idaho/Bear-Lake-County/Household-Income,95th,"0    133,767.000000dtype: object","0    285.443dtype: object"
 1,https://statisticalatlas.com/county/Idaho/Bear-Lake-County/Household-Income,80th,"0    84,471.000000dtype: object","0    180.251dtype: object"
 2,https://statisticalatlas.com/county/Idaho/Bear-Lake-County/Household-Income,60th,"0    55,833.000000dtype: object","0    119.141dtype: object"
